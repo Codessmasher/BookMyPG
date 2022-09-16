@@ -43,3 +43,6 @@
     height: 100px;
     width: 100px;
 }
+input::-webkit-calendar-picker-indicator {
+    opacity: 0;
+  }

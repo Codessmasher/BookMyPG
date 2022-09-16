@@ -25,12 +25,19 @@ session_start();
 
         <form id="search-form" action="property_list.php" method="GET">
             <div class="input-group city-search">
-                <input type="text" class="form-control input-city" id='city' name='city' placeholder="Enter your city to search for PGs" />
+                <input type="text" class="form-control input-city" list="cityList" id='city' name='city' placeholder="Enter your city to search for PGs" />
                 <div class="input-group-append">
                     <button type="submit" class="btn btn-secondary">
                         <i class="fa fa-search"></i>
                     </button>
                 </div>
+                <datalist id="cityList">
+                    <option value="Delhi">Delhi</option>
+                    <option value="Mumbai">Mumbai</option>
+                    <option value="Hyderabad">Hyderabad</option>
+                    <option value="Bengaluru">Bengaluru</option>
+                </datalist>
+            </div>
             </div>
         </form>
     </div>
