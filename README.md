@@ -1,5 +1,5 @@
 # PGlife
-This is a website with some exciting functionality 
+This website is for PGBooking system
 
-Due to the existence of the database, it cannot be hosted on GitHub
-I will link the video . watch in Linkedln
+Due to the existence of the database, full code cannot be hosted on GitHub
+I have attached the link [here](http://bookmypg.lovestoblog.com/).
