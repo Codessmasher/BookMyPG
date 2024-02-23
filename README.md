@@ -42,5 +42,6 @@ STEPS TO ACCESS THE WEBSITES
 ![Screenshot (517)](https://github.com/Codessmasher/BookMyPG/assets/95518873/0c4af10b-bf33-45d4-8ae0-96ac36c20f7a)
 
 # 13
-![Screenshot (518)](https://github.com/Codessmasher/BookMyPG/assets/95518873/0518e0b2-c1b8-4edd-b0aa-9f83e0877992)
+![Screenshot (519)](https://github.com/Codessmasher/BookMyPG/assets/95518873/a0d05727-0bf9-4724-8aff-18790c552828)
+
 
