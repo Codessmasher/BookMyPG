@@ -1,6 +1,5 @@
 # BookMyPG
-This website is for PGBooking system with real payment gateway
-
+This website is for PGBooking system with real razorpay payment gateway feature. One can search a pg from 4 city with sorting based on rent, male,femal,bisexual. One booking id is given after booking a pg and he can't book a pg twice and also he can't book a pg without giving money even if he tries. He can also bookmark a pg. I have used PHP , Bootstrap, MySQL as a tech stack.
 Due to the existence of the database, full code cannot be hosted on GitHub
 I have attached the link [here](http://bookmypg.lovestoblog.com/).
 
